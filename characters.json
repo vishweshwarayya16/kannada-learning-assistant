@@ -1,0 +1,14 @@
+{
+  "characters": [
+    {"label": "ಅ", "roman": "a", "example": "ಅಮ್ಮ", "meaning": "mother"},
+    {"label": "ಆ", "roman": "aa", "example": "ಆನೆ", "meaning": "elephant"},
+    {"label": "ಇ", "roman": "i", "example": "ಇಲಿ", "meaning": "rat"},
+    {"label": "ಈ", "roman": "ee", "example": "ಈಚಲು", "meaning": "a type of palm"},
+    {"label": "ಉ", "roman": "u", "example": "ಉಡುಗೆ", "meaning": "clothing"},
+    {"label": "ಕ", "roman": "ka", "example": "ಕಮಲ", "meaning": "lotus"},
+    {"label": "ಖ", "roman": "kha", "example": "ಖಡ್ಗ", "meaning": "sword"},
+    {"label": "ಗ", "roman": "ga", "example": "ಗಿಡ", "meaning": "plant"},
+    {"label": "ಚ", "roman": "cha", "example": "ಚಂದ್ರ", "meaning": "moon"},
+    {"label": "ಜ", "roman": "ja", "example": "ಜಲ", "meaning": "water"}
+  ]
+}

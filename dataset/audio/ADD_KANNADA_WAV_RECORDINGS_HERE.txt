@@ -1,0 +1,2 @@
+Add one verified Kannada pronunciation recording per character.
+Required filenames are the exact Kannada character plus .wav, e.g. ಕ.wav.

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+model/*.joblib
+model/metadata.json
+data/*.sqlite
+*.sqlite
+*.sqlite3
+progress.db
